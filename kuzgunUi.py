@@ -70,7 +70,7 @@ def yaziGuncelle(yazi):
 
 print("#Kuzgun'a bağlanılıyor.<<<")
 
-#for USB or telemetry connection(port name might change depending on OS, this is for Linux based OS):
+#for USB or telemetry connection(port name might change depending on OS, this is for Linux based OS): /dev/ttyACM0
 '''
 For simulation 127.0.0.1:14550
 1 - cd ArduPilot/ArduPlane
