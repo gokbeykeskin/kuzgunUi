@@ -9,7 +9,7 @@
 If you are going to connect a real UAV with USB cable or Telemetry, edit the port on line 80
 instead of 127.0.0.1:14550, type the name of the port
 - Usually the USB port for Linux based OS is /dev/ttyACM0/
-- 
+
 If you are connecting with telemetry, specify your telemetry's baud rate. ArduPilot suggests 57600 as baud rate so I set my telemetry's baud as this value.
 
 ## Simulation
